@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ul-container {
+  display: flex;
+  list-style-type: none;
+}
+.li-container {
+  margin-right: 5px;
+}
